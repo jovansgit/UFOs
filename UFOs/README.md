@@ -8,7 +8,7 @@ The purpose of our webpage is to create a filterable table from our data set of 
 
 ## Results:
  ### How to Perform Search
-  Using the filter search box, filter our data set by date, city, state, country, or shape.  The table will update if the user presses tab or enter.  Use the multiple search criteria to filter data based on your needs
+  Using the filter search box, users can filter our data set by date, city, state, country, or shape.  The table will update if the user presses tab or enter.  Use the multiple search criteria to filter data based on your needs.  If you want to remove a filter simply delete the text from the filter and click tab or enter.
   ![FilterSearch](static/images/FilterSearch.png) 
      
 ## Summary:
