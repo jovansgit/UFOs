@@ -4,7 +4,7 @@
 
 The purpose of our webpage is to create a filterable table from our data set of UFO sightings.  Our table has the ability to be filtered by date, city, state, country, as well as shape.
 
-    ![TruthIsOutThere](static/images/TruthIsOutThere.png) 
+   ![TruthIsOutThere](static/images/TruthIsOutThere.png) 
 
 ## Results:
  * How to Perform Search
