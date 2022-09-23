@@ -7,19 +7,19 @@ The purpose of our webpage is to create a filterable table from our data set of 
    ![TruthIsOutThere](static/images/TruthIsOutThere.png) 
 
 ## Results:
- * How to Perform Search
-  Using the filter search box, filter our data set by date, city, state, country, or shape.  The table will update if the user presses tab or enter.
+ ### How to Perform Search
+  Using the filter search box, filter our data set by date, city, state, country, or shape.  The table will update if the user presses tab or enter.  Use the multiple search criteria to filter data based on your needs
   ![FilterSearch](static/images/FilterSearch.png) 
      
 ## Summary:
 
- * Drawbacks
+ ### Drawbacks
 - One drawback from this webpage is that the filters have to be exact.  For example if we filter by the date 1/10/2010 we will see results however if we filter by 01/10/2020 we will not retrieve any data
 
     ![TwoDigitMonth](static/images/TwoDigitMonth.png) 
     ![OneDigitMonth](static/images/OneDigitMonth.png) 
     
- * Additional Recommendations for future development
+ ### Additional Recommendations for future development
 - One recommendation would be to seperate the month and year into there own filters to provide more flexibility for filtering data
 
 - Another recommendation would be to make the table sortable.
